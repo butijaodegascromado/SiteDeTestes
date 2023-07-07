@@ -1,0 +1,17 @@
+h1{
+    color:rgb(0, 128, 255);
+    background-color: aliceblue;
+}
+
+h2{
+    color: blue;
+}
+
+body{
+    color:darkblue;
+    background-color: aliceblue;
+}
+
+a{
+    color: aquamarine;
+}
